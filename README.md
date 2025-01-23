@@ -22,6 +22,7 @@ Compliance Assurance: Automated alerts and reports to ensure adherence to organi
 Tools & Technologies: JumpCloud, MDM solutions, Python, Bash, and PowerShell scripting for custom automation.
 
 Results:
+
 Strengthened device security with centralized management and automated workflows.
 
 Reduced IT operational overhead through policy automation and simplified device onboarding.
