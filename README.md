@@ -23,5 +23,7 @@ Tools & Technologies: JumpCloud, MDM solutions, Python, Bash, and PowerShell scr
 
 Results:
 Strengthened device security with centralized management and automated workflows.
+
 Reduced IT operational overhead through policy automation and simplified device onboarding.
+
 Improved compliance tracking and reporting for audits and organizational standards.
